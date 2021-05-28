@@ -1,0 +1,56 @@
+id: ff42ef17010140e689e3bc9666c37ebc
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D1392:
+    span:
+      start: 126196
+      end: 127964
+  D1393:
+    span:
+      start: 137775
+      end: 139843
+  D1394:
+    span:
+      start: 152803
+      end: 154893
+  D1395:
+    span:
+      start: 369650
+      end: 390442
+  D1396:
+    span:
+      start: 480695
+      end: 488960
+  D1397:
+    span:
+      start: 695888
+      end: 711134
+  D1398:
+    span:
+      start: 874322
+      end: 887580
+  D1399:
+    span:
+      start: 1065162
+      end: 1081192
+  D1400:
+    span:
+      start: 1160909
+      end: 1167457
+  D1401:
+    span:
+      start: 1426570
+      end: 1441387
+  D1402:
+    span:
+      start: 1649736
+      end: 1662170
+  D1403:
+    span:
+      start: 2015975
+      end: 2034569
+  D1404:
+    span:
+      start: ''
+      end: ''

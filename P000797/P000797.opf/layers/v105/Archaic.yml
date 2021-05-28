@@ -1,0 +1,89 @@
+id: 09fb20ce421a424599b9fdc75bc580aa
+annotation_type: Archaic
+revision: '00001'
+annotations:
+  94506c218e9046d4bca13180da3f2c74:
+    modern: རྫུན་
+    span:
+      start: 263339
+      end: 263344
+  350062575d0d4f7f9a1db68062bdd57c:
+    modern: སོགས་
+    span:
+      start: 527283
+      end: 527288
+  5c5dc725a4af438f8ecb03b0c083d501:
+    modern: སོགས་
+    span:
+      start: 527618
+      end: 527623
+  04210a65e93a4e09b53e0559c37380c0:
+    modern: ཅུང་ཟད་
+    span:
+      start: 551870
+      end: 551876
+  2459218f7f364a9082e338b3ea212746:
+    modern: ཅུང་ཟད་
+    span:
+      start: 585151
+      end: 585157
+  80132b3a99c1481d9ebb4c9fc36004c4:
+    modern: གོ་རིམ་
+    span:
+      start: 589128
+      end: 589135
+  ee1bdf5c03fd483bbc1c668927320643:
+    modern: ཅུང་ཟད་
+    span:
+      start: 611036
+      end: 611042
+  9c70d3f74ec1455db0e9e602993fb71f:
+    modern: གོ་རིམ་
+    span:
+      start: 629567
+      end: 629574
+  ab5fa37c3b3a4f66b05c4d6eb73edc75:
+    modern: ཅུང་ཟད་
+    span:
+      start: 640445
+      end: 640451
+  3f3ea2c46d4e460c938e65226bf04e9b:
+    modern: ཅུང་ཟད་
+    span:
+      start: 640495
+      end: 640501
+  6063e173eff9430fab9240a59944c97f:
+    modern: ཅུང་ཟད་
+    span:
+      start: 660508
+      end: 660514
+  d13de89292c5456ebcb8337b12e73328:
+    modern: རྫུན་
+    span:
+      start: 927229
+      end: 927234
+  754385a9d2c94bd3b2ded7a95586b2c2:
+    modern: གོ་རིམ་མོ
+    span:
+      start: 1016996
+      end: 1017006
+  056603f942ea417db0dd6a9673daf780:
+    modern: རྫུན་
+    span:
+      start: 1046967
+      end: 1046972
+local_ids:
+  94506c218e9046d4bca13180da3f2c74: 200000
+  350062575d0d4f7f9a1db68062bdd57c: 200001
+  5c5dc725a4af438f8ecb03b0c083d501: 200002
+  04210a65e93a4e09b53e0559c37380c0: 200003
+  2459218f7f364a9082e338b3ea212746: 200004
+  80132b3a99c1481d9ebb4c9fc36004c4: 200005
+  ee1bdf5c03fd483bbc1c668927320643: 200006
+  9c70d3f74ec1455db0e9e602993fb71f: 200007
+  ab5fa37c3b3a4f66b05c4d6eb73edc75: 200008
+  3f3ea2c46d4e460c938e65226bf04e9b: 200009
+  6063e173eff9430fab9240a59944c97f: 200010
+  d13de89292c5456ebcb8337b12e73328: 200011
+  754385a9d2c94bd3b2ded7a95586b2c2: 200012
+  056603f942ea417db0dd6a9673daf780: 200013

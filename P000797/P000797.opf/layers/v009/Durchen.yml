@@ -1,0 +1,36 @@
+id: d0c4573aba554fd289f7bf71b59cd9dc
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D1405:
+    span:
+      start: 175172
+      end: 184100
+  D1407:
+    span:
+      start: 574141
+      end: 593470
+  D1408:
+    span:
+      start: 762255
+      end: 771444
+  D1409:
+    span:
+      start: 925851
+      end: 936943
+  D1410:
+    span:
+      start: 1269607
+      end: 1286291
+  D1411:
+    span:
+      start: 1290518
+      end: 1293318
+  D1412:
+    span:
+      start: 1611536
+      end: 1642207
+  D1414:
+    span:
+      start: ''
+      end: ''

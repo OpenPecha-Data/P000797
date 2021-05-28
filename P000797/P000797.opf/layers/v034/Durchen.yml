@@ -1,0 +1,136 @@
+id: 4a7d1a9cef9d4024b12ed719871373fa
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D2626:
+    span:
+      start: 688364
+      end: 783379
+  D2627:
+    span:
+      start: 1020965
+      end: 1062733
+  D2629:
+    span:
+      start: 1483234
+      end: 1489605
+  D2630:
+    span:
+      start: 1532215
+      end: 1539073
+  D2631:
+    span:
+      start: 1647398
+      end: 1662085
+  D2632:
+    span:
+      start: 1700756
+      end: 1705547
+  D2633:
+    span:
+      start: 1742374
+      end: 1743703
+  D2634:
+    span:
+      start: 1766166
+      end: 1767467
+  D2635:
+    span:
+      start: 1808232
+      end: 1813193
+  D2636:
+    span:
+      start: 1841404
+      end: 1845403
+  D2637:
+    span:
+      start: 1910665
+      end: 1921156
+  D2638:
+    span:
+      start: 1954732
+      end: 1956099
+  D2639:
+    span:
+      start: 1973942
+      end: 1975943
+  D2640:
+    span:
+      start: 1981191
+      end: 1983237
+  D2641:
+    span:
+      start: 1986276
+      end: 1987287
+  D2642:
+    span:
+      start: 1987966
+      end: 1988844
+  D2643:
+    span:
+      start: 1989549
+      end: 1990837
+  D2644:
+    span:
+      start: 2036442
+      end: 2042698
+  D2645:
+    span:
+      start: 2076335
+      end: 2079838
+  D2646:
+    span:
+      start: 2089888
+      end: 2091991
+  D2647:
+    span:
+      start: 2165497
+      end: 2173318
+  D2648:
+    span:
+      start: 2188244
+      end: 2190286
+  D2649:
+    span:
+      start: 2194446
+      end: 2195749
+  D2650:
+    span:
+      start: 2197685
+      end: 2199020
+  D2652:
+    span:
+      start: 2224277
+      end: 2226277
+  D2653:
+    span:
+      start: 2230894
+      end: 2231522
+  D2654:
+    span:
+      start: 2233193
+      end: 2234527
+  D2655:
+    span:
+      start: 2238342
+      end: 2239736
+  D2657:
+    span:
+      start: 2241508
+      end: 2242788
+  D2658:
+    span:
+      start: 2244665
+      end: 2246400
+  D2525:
+    span:
+      start: 2250927
+      end: 2252363
+  D2660:
+    span:
+      start: 2272042
+      end: 2274015
+  D2661:
+    span:
+      start: 2348658
+      end: 2360814

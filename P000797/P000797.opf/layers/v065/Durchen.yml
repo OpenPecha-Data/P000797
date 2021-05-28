@@ -1,0 +1,120 @@
+id: 92c1b38637294c5d977831c5a79b881d
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D3961:
+    span:
+      start: 663460
+      end: 744257
+  D3962:
+    span:
+      start: 749167
+      end: 750439
+  D3963:
+    span:
+      start: 757775
+      end: 758893
+  D3964:
+    span:
+      start: 869169
+      end: 881129
+  D3965:
+    span:
+      start: 887212
+      end: 887872
+  D3966:
+    span:
+      start: 894868
+      end: 895536
+  D3967:
+    span:
+      start: 904513
+      end: 905226
+  D3968:
+    span:
+      start: 915748
+      end: 917623
+  D3969:
+    span:
+      start: 929394
+      end: 930101
+  D3970:
+    span:
+      start: 937719
+      end: 938411
+  D3972:
+    span:
+      start: 949572
+      end: 950228
+  D3973:
+    span:
+      start: 953930
+      end: 954594
+  D3974:
+    span:
+      start: 956392
+      end: 957122
+  D3975:
+    span:
+      start: 958954
+      end: 959681
+  D3977:
+    span:
+      start: 964854
+      end: 965522
+  D3978:
+    span:
+      start: 969696
+      end: 970282
+  D3979:
+    span:
+      start: 972205
+      end: 972789
+  D3980:
+    span:
+      start: 975271
+      end: 975270
+  D3981:
+    span:
+      start: 1008116
+      end: 1012326
+  D3983:
+    span:
+      start: 1028692
+      end: 1029382
+  D3984:
+    span:
+      start: 1037123
+      end: 1037790
+  D3985:
+    span:
+      start: 1047032
+      end: 1048195
+  D3986:
+    span:
+      start: 1166707
+      end: 1187321
+  D3987:
+    span:
+      start: 1215639
+      end: 1217171
+  D3988:
+    span:
+      start: 1220946
+      end: 1221662
+  D3989:
+    span:
+      start: 1225548
+      end: 1227275
+  D3990:
+    span:
+      start: 1230618
+      end: 1231322
+  D3992:
+    span:
+      start: 1358398
+      end: 1366628
+  D3993:
+    span:
+      start: 1909306
+      end: 1961559

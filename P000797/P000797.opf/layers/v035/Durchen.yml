@@ -1,0 +1,36 @@
+id: f3930cb7746b4fa599aa11fe689c2bb3
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D2662:
+    span:
+      start: 222166
+      end: 266535
+  D2663:
+    span:
+      start: 914165
+      end: 1012103
+  D2663a:
+    span:
+      start: 1709937
+      end: 1760792
+  D2664:
+    span:
+      start: 1811825
+      end: 1816947
+  D2665:
+    span:
+      start: 1839842
+      end: 1842065
+  D2666:
+    span:
+      start: 1951480
+      end: 1968550
+  D2667:
+    span:
+      start: 1987417
+      end: 1990666
+  D2669:
+    span:
+      start: 2336845
+      end: 2384053

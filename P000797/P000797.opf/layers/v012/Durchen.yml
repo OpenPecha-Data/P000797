@@ -1,0 +1,360 @@
+id: ff5f6fe959ed4045a6f156dba4fbc909
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D1517:
+    span:
+      start: 201097
+      end: 202444
+  D1519:
+    span:
+      start: 210754
+      end: 212147
+  D1520:
+    span:
+      start: 214198
+      end: 215526
+  D1521:
+    span:
+      start: 311126
+      end: 320493
+  D1522:
+    span:
+      start: 351962
+      end: 355990
+  D1523:
+    span:
+      start: 359048
+      end: 361674
+  D1524:
+    span:
+      start: 373329
+      end: 374034
+  D1525:
+    span:
+      start: 376705
+      end: 377752
+  D1526:
+    span:
+      start: 381152
+      end: 381921
+  D1527:
+    span:
+      start: 385154
+      end: 386504
+  D1528:
+    span:
+      start: 387848
+      end: 389226
+  D1529:
+    span:
+      start: 397993
+      end: 400541
+  D1530:
+    span:
+      start: 407371
+      end: 408264
+  D1531:
+    span:
+      start: 412909
+      end: 414035
+  D1532:
+    span:
+      start: 417882
+      end: 418620
+  D1533:
+    span:
+      start: 428175
+      end: 430900
+  D1534:
+    span:
+      start: 449903
+      end: 452778
+  D1535:
+    span:
+      start: 474657
+      end: 477442
+  D1536:
+    span:
+      start: 489932
+      end: 492603
+  D1537:
+    span:
+      start: 511861
+      end: 514536
+  D1538:
+    span:
+      start: 624830
+      end: 633576
+  D1539:
+    span:
+      start: 645097
+      end: 647822
+  D1540:
+    span:
+      start: 737877
+      end: 743568
+  D1541:
+    span:
+      start: 745707
+      end: 748443
+  D1542:
+    span:
+      start: 753420
+      end: 754698
+  D1544:
+    span:
+      start: 782883
+      end: 786880
+  D1545:
+    span:
+      start: 792644
+      end: 795247
+  D1546:
+    span:
+      start: 805496
+      end: 807515
+  D1547:
+    span:
+      start: 810399
+      end: 811081
+  D1548:
+    span:
+      start: 812621
+      end: 813319
+  D1549:
+    span:
+      start: 816003
+      end: 817316
+  D1550:
+    span:
+      start: 823111
+      end: 825650
+  D1551:
+    span:
+      start: 835637
+      end: 837965
+  D1552:
+    span:
+      start: 840026
+      end: 842566
+  D1553:
+    span:
+      start: 849349
+      end: 852120
+  D1555:
+    span:
+      start: 864000
+      end: 865832
+  D1556:
+    span:
+      start: 868599
+      end: 870001
+  D1557:
+    span:
+      start: 889192
+      end: 891715
+  D1558:
+    span:
+      start: 897843
+      end: 900984
+  D1559:
+    span:
+      start: 902280
+      end: 902978
+  D1560:
+    span:
+      start: 905484
+      end: 906206
+  D1561:
+    span:
+      start: 908664
+      end: 910059
+  D1562:
+    span:
+      start: 925464
+      end: 928225
+  D1563:
+    span:
+      start: 934643
+      end: 936864
+  D1564:
+    span:
+      start: 941794
+      end: 943183
+  D1565:
+    span:
+      start: 983719
+      end: 986388
+  D1566:
+    span:
+      start: 989313
+      end: 990675
+  D1567:
+    span:
+      start: 995419
+      end: 996744
+  D1568:
+    span:
+      start: 1000841
+      end: 1003533
+  D1569:
+    span:
+      start: 1020520
+      end: 1023403
+  D1570:
+    span:
+      start: 1032320
+      end: 1034219
+  D1571:
+    span:
+      start: 1036429
+      end: 1036430
+  D1572:
+    span:
+      start: 1036436
+      end: 1036435
+  D1573:
+    span:
+      start: 1052553
+      end: 1055038
+  D1574:
+    span:
+      start: 1057909
+      end: 1058601
+  D1575:
+    span:
+      start: 1060593
+      end: 1061288
+  D1576:
+    span:
+      start: 1063943
+      end: 1065298
+  D1577:
+    span:
+      start: 1069133
+      end: 1070994
+  D1578:
+    span:
+      start: 1072600
+      end: 1073300
+  D1579:
+    span:
+      start: 1075730
+      end: 1077065
+  D1580:
+    span:
+      start: 1095133
+      end: 1099098
+  D1581:
+    span:
+      start: 1130052
+      end: 1134733
+  D1582:
+    span:
+      start: 1198293
+      end: 1204490
+  D1583:
+    span:
+      start: 1220427
+      end: 1222968
+  D1584:
+    span:
+      start: 1289294
+      end: 1297109
+  D1585:
+    span:
+      start: 1412357
+      end: 1426592
+  D1586:
+    span:
+      start: 1429760
+      end: 1430485
+  D1587:
+    span:
+      start: 1433164
+      end: 1434571
+  D1588:
+    span:
+      start: 1439227
+      end: 1441694
+  D1589:
+    span:
+      start: 1446429
+      end: 1449109
+  D1590:
+    span:
+      start: 1458227
+      end: 1460693
+  D1591:
+    span:
+      start: 1465500
+      end: 1466997
+  D1592:
+    span:
+      start: 1470415
+      end: 1471415
+  D1593:
+    span:
+      start: 1473465
+      end: 1475343
+  D1594:
+    span:
+      start: 1477307
+      end: 1477985
+  D1595:
+    span:
+      start: 1480461
+      end: 1481705
+  D1596:
+    span:
+      start: 1486072
+      end: 1486847
+  D1597:
+    span:
+      start: 1488539
+      end: 1489580
+  D1598:
+    span:
+      start: 1490278
+      end: 1491284
+  D1599:
+    span:
+      start: 1491888
+      end: 1492799
+  D1599a:
+    span:
+      start: 1493994
+      end: 1494717
+  D1770:
+    span:
+      start: 1499660
+      end: 1500363
+  D1601:
+    span:
+      start: 1503100
+      end: 1504375
+  D1602:
+    span:
+      start: 1530312
+      end: 1534437
+  D1603:
+    span:
+      start: 1539105
+      end: 1541049
+  D1604:
+    span:
+      start: 1543771
+      end: 1544524
+  D1605:
+    span:
+      start: 1548928
+      end: 1550326
+  D1606:
+    span:
+      start: 1574259
+      end: 1575573
+  D1607:
+    span:
+      start: 1983793
+      end: 2022998

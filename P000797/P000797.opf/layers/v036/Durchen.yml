@@ -1,0 +1,100 @@
+id: 8fd3eac3782e487bb52cef30f47b181a
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D2670:
+    span:
+      start: 146134
+      end: 166861
+  D2671:
+    span:
+      start: 222185
+      end: 234126
+  D2672:
+    span:
+      start: 383954
+      end: 415502
+  D2673:
+    span:
+      start: 466678
+      end: 475381
+  D2674:
+    span:
+      start: 527832
+      end: 537852
+  D2675:
+    span:
+      start: 559137
+      end: 562444
+  D2676:
+    span:
+      start: 577222
+      end: 580522
+  D2677:
+    span:
+      start: 625336
+      end: 626605
+  D2678:
+    span:
+      start: 644065
+      end: 647282
+  D2679:
+    span:
+      start: 697824
+      end: 704645
+  D2680:
+    span:
+      start: 740524
+      end: 746886
+  D2681:
+    span:
+      start: 771099
+      end: 774350
+  D2682:
+    span:
+      start: 838574
+      end: 845598
+  D2682a:
+    span:
+      start: 856319
+      end: 858838
+  D2683:
+    span:
+      start: 902325
+      end: 908799
+  D2684:
+    span:
+      start: 934901
+      end: 937537
+  D2685:
+    span:
+      start: 947048
+      end: 949754
+  D2686:
+    span:
+      start: 978473
+      end: 983119
+  D2687:
+    span:
+      start: 1067202
+      end: 1077055
+  D2688:
+    span:
+      start: 1245618
+      end: 1285866
+  D2689:
+    span:
+      start: 1322823
+      end: 1323964
+  D2691:
+    span:
+      start: 2144974
+      end: 2215283
+  D2692:
+    span:
+      start: 2346353
+      end: 2362553
+  D2693:
+    span:
+      start: 2526150
+      end: 2544614

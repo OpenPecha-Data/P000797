@@ -1,0 +1,84 @@
+id: a1ed42972efd46f9b8766d7b7c7d16cc
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D2512:
+    span:
+      start: 650887
+      end: 730761
+  D2513:
+    span:
+      start: 1044117
+      end: 1094989
+  D2514:
+    span:
+      start: 1178589
+      end: 1189799
+  D2515:
+    span:
+      start: 1353761
+      end: 1372175
+  D2516:
+    span:
+      start: 1523900
+      end: 1549868
+  D2517:
+    span:
+      start: 1588326
+      end: 1595637
+  D2518:
+    span:
+      start: 1611045
+      end: 1615566
+  D2519:
+    span:
+      start: 1756090
+      end: 1785569
+  D2520:
+    span:
+      start: 1840546
+      end: 1850842
+  D2521:
+    span:
+      start: 1859556
+      end: 1862349
+  D2522:
+    span:
+      start: 1869465
+      end: 1871862
+  D2847:
+    span:
+      start: 1888084
+      end: 1891006
+  D2524:
+    span:
+      start: 1963350
+      end: 1974966
+  D2177:
+    span:
+      start: 1996719
+      end: 2002370
+  D2526:
+    span:
+      start: 2023556
+      end: 2027084
+  D2527:
+    span:
+      start: 2050963
+      end: 2055170
+  D2528:
+    span:
+      start: 2071654
+      end: 2075850
+  D2529:
+    span:
+      start: 2194338
+      end: 2214670
+  D2530:
+    span:
+      start: 2220621
+      end: 2223089
+  D2531:
+    span:
+      start: 2672980
+      end: 2748485

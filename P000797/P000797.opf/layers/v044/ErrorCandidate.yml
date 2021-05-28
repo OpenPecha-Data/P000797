@@ -1,0 +1,10 @@
+id: df18c1655cae4c209abf1a8436256c3e
+annotation_type: ErrorCandidate
+revision: '00001'
+annotations:
+  dcd029fc513f4355a75d0572b6e5aeb8:
+    span:
+      start: 1901562
+      end: 1901563
+local_ids:
+  dcd029fc513f4355a75d0572b6e5aeb8: 200000

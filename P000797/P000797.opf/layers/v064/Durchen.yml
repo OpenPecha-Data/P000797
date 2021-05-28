@@ -1,0 +1,144 @@
+id: 3ba3053d71b242b787b9c35ce1493195
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  D3908:
+    span:
+      start: 30899
+      end: 31986
+  D3909:
+    span:
+      start: 39435
+      end: 41851
+  D3913:
+    span:
+      start: 88027
+      end: 88611
+  D4079:
+    span:
+      start: 283155
+      end: 283833
+  D3920:
+    span:
+      start: 287134
+      end: 287842
+  D3923:
+    span:
+      start: 318108
+      end: 320108
+  D3925:
+    span:
+      start: 357798
+      end: 361161
+  D3926:
+    span:
+      start: 367994
+      end: 369210
+  D3927:
+    span:
+      start: 373439
+      end: 375454
+  D3928:
+    span:
+      start: 377867
+      end: 379161
+  D3929:
+    span:
+      start: 382301
+      end: 383566
+  D3930:
+    span:
+      start: 449836
+      end: 455402
+  D3934:
+    span:
+      start: 791998
+      end: 818833
+  D3935:
+    span:
+      start: 1217143
+      end: 1257945
+  D3936:
+    span:
+      start: 1273769
+      end: 1275742
+  D3937:
+    span:
+      start: 1282083
+      end: 1284086
+  D3939:
+    span:
+      start: 1349654
+      end: 1350932
+  D3940:
+    span:
+      start: 1969649
+      end: 2059575
+  D3941:
+    span:
+      start: 2061501
+      end: 2062833
+  D3942:
+    span:
+      start: 2064468
+      end: 2065775
+  D3943:
+    span:
+      start: 2132753
+      end: 2137596
+  D3944:
+    span:
+      start: 2195639
+      end: 2201308
+  D3945:
+    span:
+      start: 2206850
+      end: 2208157
+  D3946:
+    span:
+      start: 2211154
+      end: 2213138
+  D3947:
+    span:
+      start: 2221652
+      end: 2223652
+  D3948:
+    span:
+      start: 2388809
+      end: 2404612
+  D3949:
+    span:
+      start: 2406297
+      end: 2407610
+  D3950:
+    span:
+      start: 2410756
+      end: 2412068
+  D3951:
+    span:
+      start: 2415305
+      end: 2416669
+  D3952:
+    span:
+      start: 2427223
+      end: 2428523
+  D3953:
+    span:
+      start: 2432571
+      end: 2433880
+  D3954:
+    span:
+      start: 2445208
+      end: 2446740
+  D3958:
+    span:
+      start: 2466272
+      end: 2467607
+  D3959:
+    span:
+      start: 2483453
+      end: 2485427
+  D3960:
+    span:
+      start: 2487073
+      end: 2487073
